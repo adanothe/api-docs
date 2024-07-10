@@ -1,6 +1,6 @@
-**API endpoint:** [https://public.adanothe.com/graphql](https://public.adanothe.com/graphql)
-
 ### Query Examples
+
+**API endpoint:** [https://public.adanothe.com/graphql](https://public.adanothe.com/graphql)
 
 ### Get Validator Information
 
