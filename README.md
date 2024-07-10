@@ -1,3 +1,4 @@
+API endpoint: [https://public.adanothe.com/graphql](https://public.adanothe.com/graphql)
 
 ### Query Examples
 
@@ -330,6 +331,3 @@ query getAccountTransactions($address: String!) {
 ```
 This query is used to retrieve the list of transactions for a specific account based on its address (`address`).
 
----
-
-API endpoint: [https://public.adanothe.com/graphql](https://public.adanothe.com/graphql)
