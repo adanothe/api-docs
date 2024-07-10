@@ -1,4 +1,4 @@
-API endpoint: [https://public.adanothe.com/graphql](https://public.adanothe.com/graphql)
+**API endpoint:** [https://public.adanothe.com/graphql](https://public.adanothe.com/graphql)
 
 ### Query Examples
 
