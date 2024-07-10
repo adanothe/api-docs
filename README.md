@@ -41,7 +41,12 @@ query getValidator($address: String!) {
   }
 }
 ```
-This query is used to retrieve detailed information about a specific validator based on its address (`address`).
+This query is used to retrieve detailed information about a specific validator based on its validator address (`address`).
+
+ *filter parameter:*
+- `ACTIVE`
+- `CANDIDATE`
+- `INACTIVE`
 
 ### Get All Validators with Filter
 
