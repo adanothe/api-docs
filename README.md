@@ -44,11 +44,6 @@ query getValidator($address: String!) {
 ```
 This query is used to retrieve detailed information about a specific validator based on its validator address (`address`).
 
- *filter parameter:*
-- `ACTIVE`
-- `CANDIDATE`
-- `INACTIVE`
-
 ### Get All Validators with Filter
 
 **Query:**
@@ -93,6 +88,11 @@ query allValidator($limit: Int, $offset: Int, $filter: ValidatorFilter) {
 }
 ```
 This query is used to retrieve a list of all validators with options to apply a limit (`limit`), offset (`offset`), and filter based on the validator state (`filter`).
+
+ *filter parameter:*
+- `ACTIVE`
+- `CANDIDATE`
+- `INACTIVE`
 
 ### Get Network Details
 
